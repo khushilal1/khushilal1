@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Khushilal Singh</h1>
-<h3 align="center">A Enthusiastic on Data Science|Machine Learning|Large language Model(LLM)  from Nepal</h3>
+<h1 align="center">Hi 👋, I'm Khushilal Mahato</h1>
+<h3 align="center">A Enthusiastic on Data Science|Machine Learning|Large language Model(LLM)|Backend Developer  from Nepal</h3>
 
 
 
